@@ -1,5 +1,6 @@
 # API_REST_JWT_and_CONSUME_API
 This API is used to list and register games on a page, like a web store.
+It was create using Node.js.
 ## EndPoints
 ### GET /games
 This endpoint is responsible for returning all games registered in the database.
